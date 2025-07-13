@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Abdulaziz Ayalew 👋
 
-<!--
-**AbdulazizAya/AbdulazizAya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web and Telegram bot developer, working with:
+- 🧑‍💻 HTML, CSS, JavaScript, Python
+- 🤖 Telegram Bots with Python
+- 🛠️ Currently building useful tools for everyday problems
 
-Here are some ideas to get you started:
+📫 Reach me at:
+[Telegram](https://t.me/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourusername) | [Email](mailto:your@email.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=transparent)
+
+
+[visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
