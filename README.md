@@ -4,9 +4,10 @@
 
 <div align="center" width="150px">
 
-I am currently a <b>Software Engineer student </b> at **[AASTU](https://www.linkedin.com/school/addis-ababa-science-and-technology-university/?originalSubdomain=et)**. <br />
-I am a content writer, **[Tech+ Amharic](https://t.me/Tech_plus_amharic)** (840+ Subscribers)  <br />
-Besides, I am studying <b>Back end Development </b> in <b>alx</b>. <br />
+I'm a web and Telegram bot developer, working with:
+🧑‍💻 HTML, CSS, JavaScript, Python and Django framework
+🤖 Telegram Bots with Python
+🛠️ Currently building useful tools for everyday problems
 
 </div>
 
