@@ -1,7 +1,7 @@
-### Hi, I'm Abdulaziz Ayalew 👋
+### Hi, I'm Abdulaziz Ayalew 
 
 I'm a web and Telegram bot developer, working with:
-- 🧑‍💻 HTML, CSS, JavaScript, Python
+- 🧑‍💻 HTML, CSS, JavaScript, Python and Django framework
 - 🤖 Telegram Bots with Python
 - 🛠️ Currently building useful tools for everyday problems
 
