@@ -17,7 +17,7 @@ I'm a web and Telegram bot developer, working with:
 
  <!-- Github Readme Stats -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulazizaya&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulazizAya&show_icons=true&theme=transparent"  />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,8 +27,6 @@ I'm a web and Telegram bot developer, working with:
  
  <!-- Banners 2nd Phase -->
 
-
- <!-- Typewriting Introduction -->
 
 
  <!-- Typewriting Introduction -->
