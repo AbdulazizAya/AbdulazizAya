@@ -30,7 +30,6 @@ I'm a web and Telegram bot developer, working with:
 
  <!-- Typewriting Introduction -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+a+Software+Developer)](https://git.io/typing-svg)
 
  <!-- Typewriting Introduction -->
 
